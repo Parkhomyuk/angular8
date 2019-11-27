@@ -41,7 +41,7 @@
             "UpdatedAt": "2019-11-21T09:06:29.21",
             "UpdatedBy": "BookitLabSupport",
             "CancelledAt": "2019-11-21T09:06:29.21",
-            "Remarks": null,
+            "Remarks": "test reservation",
             "TutorName": null,
             "CustomFormValues": null,
             "Name": null,

@@ -28,6 +28,7 @@ import { CheckboxDynamoComponent } from './checkbox-dynamo/checkbox-dynamo.compo
 import {MatCheckboxModule} from '@angular/material/checkbox';
  
 import {MatIconModule} from '@angular/material/icon';
+import { TitlePipe } from './pipes/title.pipe';
  
 @NgModule({
   declarations: [
@@ -35,7 +36,8 @@ import {MatIconModule} from '@angular/material/icon';
     ReservationsComponent,
     TableComponent,
     CheckboxComponent,
-    CheckboxDynamoComponent
+    CheckboxDynamoComponent,
+    TitlePipe
   ],
   imports: [
     BrowserModule,
